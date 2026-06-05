@@ -1,11 +1,10 @@
 ---
-layout: category-post
+layout: page
 title: Welcome to Jekyll!
 date: '2016-08-05 20:20:56 -0400'
 categories: writing
 
 ---
-
 ![2026-06-05-132217.png](https://mcfrontrun.github.io/3lt/assets/2026-06-05-132217.png)
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
